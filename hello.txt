@@ -1,0 +1,107 @@
+postgres=# \password
+Enter new password for user "postgres": 
+Enter it again: 
+postgres=# ^C
+postgres=# exit
+postgres@C050:~$ .exit
+.exit: command not found
+postgres@C050:~$ exit
+logout
+root@C050:/home/c050# exit
+exit
+
+
+Ruby Programming
+===============================
+php2.senza@gmail.com
+Password: f64>7dk)Tqh}YFwz
+===============================
+
+bdd - broadcast: Reminder: 
+The leave application document
+https://docs.google.com/document/d/19NhNDOAYZnI-ZWJQX2m_6ccNPafm9LUSq7zXjqfYB1Q/edit?usp=sharing
+My office email id: bdd@senza.solutions, bdd.senza@gmail.com
+HR office email id: people3.senza@gmail.com
+Note: You dont need to send mail to sir/mam and kenil sir.
+
+https://www.rapidtables.com/convert/number/hex-to-ascii.html -- hex to text
+
+======================================
+-----------------for thamekit installtion--------------------
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+=========================================
+-----------------Udeamy course--------------------
+https://www.udemy.com/home/my-courses/learning/
+==========================================
+token code
+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
+
+==========================================
+
+https://www.youtube.com/watch?v=u2o_new-T0o
+
+===========================================
+
+github email: gediyanikita@gmail.com
+password : qJx2FEX2Fj5GAuK
+
+===========================================
+
+heroku email: gediyanikita@gmail.com
+password : STAmQJRw4Z5DP36
+
+==============================================================================
+---->  for set github <----
+git init 
+
+git add -A
+
+git status
+
+git commit -m "intial commit"
+
+git remote add origin https://github.com/nikitagediya/Ruby-on-Rails.git
+
+git push -u origin main
+
+==============================================================================
+
+
+the html global attribute, "contenteditable" is used to:
+The contenteditable attribute specifies whether the content of an element is editable or not.
+
+====================================================
+Your online store is password protected with "nikita".
+
+API Key-- 0861a3ae2fddc54590262d0b1602d593
+
+API secrate Key--  f3c6411827e3fe9c5eff6c5d9e5f2230
+
+theme configure --password=f3c6411827e3fe9c5eff6c5d9e5f2230 --store="nikitancc-store.myshopify.com" --themeid=124769271842
+
+development:
+  password: f3c6411827e3fe9c5eff6c5d9e5f2230 
+  theme_id: 124769271842
+  store: nikitancc-store.myshopify.com
+
+=================================================================
+
+convert password sha1,md5 and etc..
+
+-->  https://md5decrypt.net/en/
+
+===================================================
+
+headings
+-->  https://brandongaille.com/list-59-catchy-shopping-slogans-and-taglines/
+
+===========================================================================================
+
+json validator
+--> https://jsonlint.com/
+
+=====================================================================================
+
+
+ngrok --> php2@gmail.com
+password --> 25J_MwkP-&RcTF4
